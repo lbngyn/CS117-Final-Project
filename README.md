@@ -19,28 +19,18 @@
 | 3 | Nguyễn Duy Thắng | 22521333 | 22521333@gm.uit.edu.vn | [DyThen-Kumo](https://github.com/DyThen-Kumo) |
 | 4 | Nguyễn Trần Duy Thiên | 22521392 | 22521392@gm.uit.edu.vn | [duythien2212](https://github.com/duythien2212) |
 
-### Step by step run our demo
+### Step by step run our demo: 
 
-1. Check out new branch
+1. Tải project
 
 ```bash
-git checkout -b feature/AmazingFeature
+git clone https://github.com/lbngyn/CS117-Final-Project.git
 ```
 
-2. Add new feature
+2. Chuyển đến thư mục Demo bằng lệnh cd 
+
+3. Chạy file cs117_final_project_demo.py bằng lệnh cmd sau:  
 
 ```bash
-git add .
-```
-
-3. Commit your change
-
-```bash
-git commit -m 'feat: Add some AmazingFeature'
-```
-
-4. Push your change
-
-```bash
-git push --set-upstream origin feature/AmazingFeature
+streamlit run cs117_final_project_demo.py --server.enableXsrfProtection false
 ```
