@@ -19,7 +19,7 @@
 | 3 | Nguyễn Duy Thắng | 22521333 | 22521333@gm.uit.edu.vn | [DyThen-Kumo](https://github.com/DyThen-Kumo) |
 | 4 | Nguyễn Trần Duy Thiên | 22521392 | 22521392@gm.uit.edu.vn | [duythien2212](https://github.com/duythien2212) |
 
-### Step by step push new document
+### Step by step run our demo
 
 1. Check out new branch
 
